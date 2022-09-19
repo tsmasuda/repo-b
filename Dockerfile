@@ -1,1 +1,1 @@
-FROM node:latest
+FROM openjdk:latest
